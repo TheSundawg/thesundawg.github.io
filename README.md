@@ -1,9 +1,9 @@
 # Portfolio
 ### Description
 
-Here you'll find examples of my technical, academic, and narrative writing.
+Here you'll find examples of my academic, narrative, and technical writing.
 
-## Academic
+## [Academic](academic.md)
 
 ## Narrative
 
