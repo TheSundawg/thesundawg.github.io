@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8" />
-    <title>title</title>
-</head>
-<body>
-    
-</body>
-</html>
+<iframe src="Portfolio\1. Academic Example One.docx" width="600" height="800"></iframe>
