@@ -1,22 +1,32 @@
 # Academic
-
 ## Jumpscare
 <embed type="text/pdf" src="PDFs\1. Academic Example One.pdf" width="600" height="800">
+---
+---
 
 ## No Country for Old Men
 <embed type="text/pdf" src="PDFs\2. Academic Example Two.pdf" width="600" height="800">
+---
+---
 
 ## Louisiana Purchase
 <embed type="text/pdf" src="PDFs\3. Academic Example Three.pdf" width="600" height="800">
+---
+---
 
 # Narrative
 
 <embed type="text/pdf" src="PDFs\At the Water's Edge Final Draft.pdf" width="600" height="800">
-    
-<embed type="text/pdf" src="PDFs\Rainwall Final Draft.pdf" width="600" height="800">
-    
-<embed type="text/pdf" src="PDFs\Where there's Smoke.pdf" width="600" height="800">
+---
+---
 
+<embed type="text/pdf" src="PDFs\Rainwall Final Draft.pdf" width="600" height="800">
+---
+---
+
+<embed type="text/pdf" src="PDFs\Where there's Smoke.pdf" width="600" height="800">
+---
+---
 
 # Technical
 <embed type="text/pdf" src="PDFs\Coffee SOP.pdf" width="600" height="800">
