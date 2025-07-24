@@ -16,7 +16,7 @@ This essay explores the effect of horror on human physiology.
 ## No Country for Old Men
 
 This is a rhetorical analysis of the film 
-_No_Country_for_Old_Men,_ based on the novel of the same name.
+_No Country for Old Men,_ based on the novel of the same name.
 
 <embed type="text/pdf" src="PDFs\2. Academic Example Two.pdf" width="600" height="800">
 ---
