@@ -1,1 +1,1 @@
-<embed type="text/pdf" src="Portfolio\At the Water's Edge Final Draft.pdf" width="600" height="800"></embed>
+<embed type="text/pdf" src="PDFs\1. Academic Example One.pdf" width="800" height="1000">
